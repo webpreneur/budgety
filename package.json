@@ -1,0 +1,25 @@
+{
+  "name": "budgety",
+  "version": "1.0.0",
+  "description": "Simple ES5 monthly budget tracking application using IIFEs and MVC pattern.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webpreneur/budgety.git"
+  },
+  "keywords": [
+    "budget",
+    "tracking",
+    "ES5",
+    "MVC"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webpreneur/budgety/issues"
+  },
+  "homepage": "https://github.com/webpreneur/budgety#readme"
+}
